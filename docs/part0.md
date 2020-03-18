@@ -13,6 +13,8 @@ For the course of 2020, this has already been created by the teacher.
 
 * One person creates the Slack instance.
 * Invite all your coursemates to the Slack.
+* Everyone should login to the Slack.
+* Everyone should add a picture to the Slack, so it's easier to recognize each other and learn names.
 * Invite your teacher to the Slack.
 * Create a channel for each small group in the course.
 * Invite the group members and the teacher to those channels.

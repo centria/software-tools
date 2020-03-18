@@ -1,5 +1,5 @@
 ---
-title: "Kanban"
+title: "Part 4 - Kanban"
 permalink: /part4/
 nav_order: 5
 published: true

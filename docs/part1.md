@@ -1,5 +1,5 @@
 ---
-title: "Git and console"
+title: "Part 1 - Git and console"
 permalink: /part1/
 nav_order: 3
 published: true

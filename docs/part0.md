@@ -1,5 +1,5 @@
 ---
-title: "Slack"
+title: "Part 0 - Slack"
 permalink: /part0/
 nav_order: 2
 published: true

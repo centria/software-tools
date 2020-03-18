@@ -1,5 +1,5 @@
 ---
-title: "Part 2"
+title: "Essay assignment"
 permalink: /part2/
 nav_order: 3
 published: true

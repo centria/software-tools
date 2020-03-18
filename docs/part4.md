@@ -7,8 +7,10 @@ published: true
 
 ## Kanban
 
+This is a group task.
+
 * Read more about [**Kanban. The link goes to Wikipedia.**](https://en.wikipedia.org/wiki/Kanban)
-* Create a [**Trello board**](https://trello.com/) with your small group. You will have to register to the service. Give the board the name of your small group, if possible.
+* Create a [**Trello board**](https://trello.com/) with **your small group**. You will have to register to the service. Give the board the name of your small group, if possible.
 * Make the board public, and send the link of your board to your group channel.
 * Consider the following small programming task, and create a simple **KANBAN BOARD** in Trello for developing it.
 

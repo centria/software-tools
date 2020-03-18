@@ -29,3 +29,5 @@ Send your essay via email. The essay should preferably be as a PDF, but a link t
 
 
 The idea is to get some understanding, what are the differences between different methologies and framewworks, before we start using them in real life.
+
+This is an individual work, not a group assignment.

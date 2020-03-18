@@ -7,7 +7,9 @@ published: true
 
 ## Slack
 
-Create a [**Slack instance**](https://slack.com) for the whole course. Make the name something meaningful.
+Create a [**Slack instance**](https://slack.com) for the whole course. Make the name something meaningful. 
+
+For the course of 2020, this has already been created by the teacher.
 
 * One person creates the Slack instance.
 * Invite all your coursemates to the Slack.

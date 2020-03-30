@@ -27,7 +27,8 @@ There are other sources in the internet, as well. Do search information from you
 
 Send your essay via email. The essay should preferably be as a PDF, but a link to Google Docs, Microsoft docx and txt are also fine.
 
-
 The idea is to get some understanding, what are the differences between different methologies and framewworks, before we start using them in real life.
 
 This is an individual work, not a group assignment.
+
+Deadline **17.3.2020**

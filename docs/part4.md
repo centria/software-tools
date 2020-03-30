@@ -30,4 +30,4 @@ The customer wants a program, which has an classes for different animals. The Pr
 * You do not have to have all perfect. The idea is to learn how such a tool works.
 * We will go through your boards in a remote session, and you will get feedback.
 
-* Deadline 31.3.2020 at 23:59:59 (board up, link in the group chat, some cards done)
+Deadline **31.3.2020 at 23:59:59** (board up, link in the group chat, some cards done)

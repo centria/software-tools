@@ -42,5 +42,8 @@ Good starting point for the tasks above are search engines (such as Google or Du
     * Everyone in the group should make at least one meaning commit and push to the project successfully. Easiest way to do this is to start the project small, and everyone adds one file/class/etc. BEWARE OF MERGE CONFLICTS!
     * Update your Kanban board while you do this, accordingly. If you need to create more tasks to the board, feel free to do it.
 
-Deadline for all three tasks is **7.4.2020 at 23:59**
+We will handle these on the lesson 8.4.2020, but I do recommend you start doing this before the lesson, already.
+
+Deadline for first two tasks is **7.4.2020 at 23:59**
+Deadline for the last task is **12.4.2020 at 23:59**. 
 

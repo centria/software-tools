@@ -39,10 +39,12 @@ Good starting point for the tasks above are search engines (such as Google or Du
 
 2. For the project you designed in part 4, create a CI pipeline. You can use any of the above, but GitHub Actions might be the easiest. [**You can find example setup for GHA from here.**](https://github.com/HeikkiHei/csharp-example)
     * Create the C-Sharp project. You can do it from the beginning, or use the example from [**here**](https://github.com/centria/coding-exercises/tree/master/project_examples/NewTypes).
-    * Everyone in the group should make at least one meaning commit and push to the project successfully. Easiest way to do this is to start the project small, and everyone adds one file/class/etc. BEWARE OF MERGE CONFLICTS!
+    * Everyone in the group should make at least one meaningful commit and push to the project successfully. Easiest way to do this is to start the project small, and everyone adds one file/class/etc. BEWARE OF MERGE CONFLICTS!
     * Update your Kanban board while you do this, accordingly. If you need to create more tasks to the board, feel free to do it.
 
 We will handle these on the lesson 8.4.2020, but I do recommend you start doing this before the lesson, already.
+
+**ONLY ONE REPOSITORY PER GROUP!** You can either create one personal repository and add your group as collaborators, or create an *organization* inside GitHub, and have everyone from the group in that. In either case, **use your personal GitHub accounts each!**
 
 Deadline for first two tasks is **7.4.2020 at 23:59**.  
 Deadline for the last task is **12.4.2020 at 23:59**. 

@@ -25,7 +25,9 @@ NOTICE! Refreshing the web page on any of these tools might lose your work. Reme
 
 * Read the material behind the three links.
 
-* Familiarize yourself (or yourselves) with the tools above. **If you are already familiar with other tools for this, you can use those**. Just fiddle around, no need to do anything special.
+* You can also watch this video: [**How to make a UML Sequence Diagram**](https://www.youtube.com/watch?v=pCK6prSq8aw)
+
+* Familiarize yourself (or yourselves) with the tools above. **If you are already familiar with other tools for this, you can use those**. Just fiddle around, no need to do anything special (yet).
 
 ### As a group
 

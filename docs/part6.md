@@ -25,11 +25,17 @@ NOTICE! Refreshing the web page on any of these tools might lose your work. Reme
 
 ### By yourself or as a group
 
-* Read the material behind the three links.
+* Read the material behind the three links:
+  * [**UML**](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
+  * [**Class diagrams**](https://en.wikipedia.org/wiki/Class_diagram)
+  * [**sequence diagrams**](https://en.wikipedia.org/wiki/Sequence_diagram)
 
 * You should also watch this video: [**How to make a UML Sequence Diagram**](https://www.youtube.com/watch?v=pCK6prSq8aw)
 
 * Familiarize yourself (or yourselves) with the tools above. **If you are already familiar with other tools for this, you can use those**. Just fiddle around, no need to do anything special (yet).
+
+
+Deadline for these is **21.4.2020 at 23:59**.  
 
 ### As a group
 

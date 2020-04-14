@@ -11,7 +11,7 @@ published: true
 
 UML is the most wide-spread way to create diagrams for documentation. There are plenty of different diagram types to choose from, but we will concentrate on a couple: class diagram and sequence diagram, and the tools for making them. You can find more about [**class diagrams here**](https://en.wikipedia.org/wiki/Class_diagram) and [**sequence diagrams here**](https://en.wikipedia.org/wiki/Sequence_diagram).
 
-One very popular tool for drawing class diagrams is [**Yuml.me**](https://yuml.me). The strength of this tool is in the way the diagrams are represented: as code. When usually diagram tools are focused on drawing the tool, with Yuml.me you can write your diagram as code. The downside is, that with large diagrams, you have to do quite much writing.
+One very popular tool for drawing diagrams is [**Yuml.me**](https://yuml.me). You can draw any diagrams, but class diagrams are by far the most popular use for the tool. The strength of this tool is in the way the diagrams are represented: as code. When usually diagram tools are focused on drawing the tool, with Yuml.me you can write your diagram as code. The downside is, that with large diagrams, you have to do quite much writing.
 
 Another tool, meant for sequence diagrams, is [**Sequencediagram.org**](https://sequencediagram.org/). The working functionality is similar to that of the Yuml.me, so you can write your diagram as code, and the tool will draw your diagram based on that.
 
@@ -19,13 +19,15 @@ NOTICE! The notation for both of these tools are different, and tool specific.
 
 Third tool, which is more versatile but has bit of a learning curve, is [**Draw.io**](https://draw.io). With this tool, you can create any charts. This time the charts are not done by code, but by placing elements on a grid or canvas, or if you feel adventurous, drawing freehand.
 
+Finally, [**LucidChart**](https://lucidchart.com) is a commercial tool for drawing all UML charts. You can also have a free trial for the software. It is a very versatile tool, and quite used in the industry. 
+
 NOTICE! Refreshing the web page on any of these tools might lose your work. Remember to save your code or picture after you are done.
 
 ### By yourself or as a group
 
 * Read the material behind the three links.
 
-* You can also watch this video: [**How to make a UML Sequence Diagram**](https://www.youtube.com/watch?v=pCK6prSq8aw)
+* You should also watch this video: [**How to make a UML Sequence Diagram**](https://www.youtube.com/watch?v=pCK6prSq8aw)
 
 * Familiarize yourself (or yourselves) with the tools above. **If you are already familiar with other tools for this, you can use those**. Just fiddle around, no need to do anything special (yet).
 

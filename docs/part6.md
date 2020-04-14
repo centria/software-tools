@@ -1,5 +1,5 @@
 ---
-title: "Part 6 - UML Charting tools"
+title: "Part 6 - UML Diagram tools"
 permalink: /part6/
 nav_order: 7
 published: true

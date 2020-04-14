@@ -1,7 +1,7 @@
 ---
 title: "Part 7 - Final project"
 permalink: /part7/
-nav_order: 8
+nav_order: 9
 published: true
 ---
 

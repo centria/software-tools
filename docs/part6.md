@@ -40,6 +40,46 @@ Deadline for these is **21.4.2020 at 23:59**.
 ### As a group
 
 
-* The task will be published later, as it requires first lectures of Design and Documentation.
+* The customer really liked your software so far. They want you to extend the project. After a discussion with the customer, they give you the requirements:
+
+*We need an abstract class **Animal**, which all the animals inherit. The Animal must have a method **MakeSound**. We want to divide the animals into subcategories, into tame and wild animals. Make these into **interfaces**, **ITame** and **IWild**, respectively. The ITame interface should have property **name** and a method **string ComeHere()**, which returns "\<name\> came to the owner.", where \<name\> is the name of the animal. The IWild animals should not have a name, but a method **string Hunt**, which returns "\<Type\> hunts", where \<Type\> is the type (or class) of the animal. Also add the wild animals **Bear**, **Wolf** and **Tiger**. The folder structure should be something in the line of:*
+
+```console
+.
+├── README.md
+├── assets
+│    ├── diagram_animal.png
+│    ├── diagram_iwild.png
+│    ├── ...
+│    └── diagram_wolf.png
+│ 
+├── src
+│    └── Fauna
+│         ├── Animals
+│         │       ├── Animal.cs
+│         │       ├── Wild
+│         │       │    ├── IWild.cs
+│         │       │    ├── Wolf.cs
+│         │       │    ├── Bear.cs
+│         │       │    └── Tiger.cs
+│         │       └── Tame
+│         │            ├── ITame.cs
+│         │            ├── Cat.cs
+│         │            ├── Bird.cs
+│         │            └── Dog.cs
+│         ├── Fauna.csproj
+│         └── Program.cs
+└── test
+    └── FaunaTests
+          ├── FaunaTest.cs
+          └──  FaunaTests.csproj
+```
+
+* **Update your program with these instructions**, using the proper ways of Kanban.
+* If in your Trello board something is done, **do not touch it**.
+* All new tasks require new cards. That's how the board works.
+* Everyone should contribute, doing at least one task (one new. animal, interface, etc). Try to divide the job evenly.
+* When you take a task from the board, add yourself to the card as a Member.
+* Create **class diagrams**, with their connections, to all your classes and interfaces, and save them in the **assets** folder, as shown in the structure.
 
 Deadline for the group task is **28.4.2020 at 23:59**.  

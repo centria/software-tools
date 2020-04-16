@@ -42,7 +42,7 @@ Deadline for these is **21.4.2020 at 23:59**.
 
 * The customer really liked your software so far. They want you to extend the project. After a discussion with the customer, they give you the requirements:
 
-*We need an abstract class **Animal**, which all the animals inherit. The Animal must have a method **MakeSound**. We want to divide the animals into subcategories, into tame and wild animals. Make these into **interfaces**, **ITame** and **IWild**, respectively. The ITame interface should have property **name** and a method **string ComeHere()**, which returns "\<name\> came to the owner.", where \<name\> is the name of the animal. The IWild animals should not have a name, but a method **string Hunt**, which returns "\<Type\> hunts", where \<Type\> is the type (or class) of the animal. Also add the wild animals **Bear**, **Wolf** and **Tiger**. The folder structure should be something in the line of:*
+*We need an abstract class **Animal**, which all the animals inherit. The Animal must have a method **MakeSound**. The previous method **TalkToOwner** can stay for tame animals. We want to divide the animals into subcategories, into tame and wild animals. Make these into **interfaces**, **ITame** and **IWild**, respectively. The ITame interface should have property **name** and a method **string ComeHere()**, which returns "\<name\> came to the owner.", where \<name\> is the name of the animal. The IWild animals should not have a name, but a method **string Hunt**, which returns "\<Type\> hunts", where \<Type\> is the type (or class) of the animal. Also add the wild animals **Bear**, **Wolf** and **Tiger**. The folder structure should be something in the line of:*
 
 ```console
 .

@@ -48,10 +48,7 @@ Deadline for these is **21.4.2020 at 23:59**.
 .
 ├── README.md
 ├── assets
-│    ├── diagram_animal.png
-│    ├── diagram_iwild.png
-│    ├── ...
-│    └── diagram_wolf.png
+│    └── class_diagram_with_connections.png
 │ 
 ├── src
 │    └── Fauna
@@ -80,6 +77,6 @@ Deadline for these is **21.4.2020 at 23:59**.
 * All new tasks require new cards. That's how the board works.
 * Everyone should contribute, doing at least one task (one new. animal, interface, etc). Try to divide the job evenly.
 * When you take a task from the board, add yourself to the card as a Member.
-* Create **class diagrams**, with their connections, to all your classes and interfaces, and save them in the **assets** folder, as shown in the structure.
+* Create **class diagrams**, with their connections, to all your classes and interfaces, and save it in the **assets** folder, as shown in the structure. You should end up with one picture, where all the animals implement one of the interfaces, and all the animals inherit the abstract class. Program.cs does not need a diagram.
 
 Deadline for the group task is **28.4.2020 at 23:59**.  

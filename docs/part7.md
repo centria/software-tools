@@ -119,6 +119,7 @@ What do you want to do?
   * TextInterface
   * Tests
   * New and updated methods
+  * Updating class diagram
   * etc, etc, etc...
 * If in your Trello board something is done, **do not touch it**.
 * All new tasks require new cards. That's how the board works.

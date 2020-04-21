@@ -75,7 +75,7 @@ Deadline for these is **21.4.2020 at 23:59**.
 * **Update your program with these instructions**, using the proper ways of Kanban.
 * If in your Trello board something is done, **do not touch it**.
 * All new tasks require new cards. That's how the board works.
-* Everyone should contribute, doing at least one task (one new. animal, interface, etc). Try to divide the job evenly.
+* Everyone should contribute, doing at least one task (one new animal, interface, etc). Try to divide the job evenly.
 * When you take a task from the board, add yourself to the card as a Member.
 * Create **class diagrams**, with their connections, to all your classes and interfaces, and save it in the **assets** folder, as shown in the structure. You should end up with one picture, where all the animals implement one of the interfaces, and all the animals inherit the abstract class. Program.cs does not need a diagram.
 

@@ -13,3 +13,4 @@ published: true
 * If you have problems contact Jari
 * We will host workshop once we are on contact teaching again.
 
+Deadline for this is **16.5.2020 at 23:59**.  
